@@ -1,7 +1,7 @@
 
 // Game Constants and Variables:-
 let inputStepDirection = { x: 0, y: 0 };
-let speed = 10;
+let speed = 15;
 let lastPaintTime = 0;
 let snakeArr = [{ x: 13, y: 15 }];
 let food = { x: 7, y: 10 };
